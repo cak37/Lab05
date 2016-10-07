@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="app_settings_name">Lab05 - Settings</string>
+    <string name="app_settings">Settings</string>
+    <string name="hello_message">Hello, Lab 05!</string>
+    <string name="preference_boolean">Preference:</string>
+    <string name="preference_false">False</string>
+    <string name="preference_true">True</string>
+    <string name="remember_boolean_title">This is a test preference.</string>
+    <string name="remember_boolean_summary">This is a summary of the test preference.</string>
+</resources>
